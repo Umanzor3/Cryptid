@@ -1,0 +1,5 @@
+package com.revature.cryptid.repository;
+
+public interface CryptidRepository {
+
+}
