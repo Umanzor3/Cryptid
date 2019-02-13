@@ -1,5 +1,0 @@
-package com.revature.cryptid.repository;
-
-public interface UserRepository {
-
-}
